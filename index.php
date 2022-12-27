@@ -1,7 +1,7 @@
 <?php
 
 
-echo "hola";
+echo "hola1";
 
 
 ?> 
