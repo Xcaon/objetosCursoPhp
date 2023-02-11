@@ -1,7 +1,0 @@
-<?php
-
-
-echo "holaee123";
-
-
-?> 
